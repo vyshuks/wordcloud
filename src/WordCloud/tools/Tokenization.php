@@ -1,9 +1,7 @@
 <?php
-namespace WordCloud\tools;
+	namespace WordCloud\tools;
 
 trait  Tokenization {
-
-	
 
 	public function  whiteSpaceTokenize($text) {
 
@@ -13,5 +11,5 @@ trait  Tokenization {
 
 	}
 
-	
+
 }
