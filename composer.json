@@ -1,0 +1,14 @@
+{
+    "name": "vyshuks/wordcloud",
+    "description": "A simple wordcloud generator in PHP",
+    "type": "library",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "vysakh ks",
+            "email": "vyshuks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
